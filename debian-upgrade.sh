@@ -54,3 +54,6 @@ fi
 
 apt update
 apt upgrade
+apt full-upgrade
+
+echo You should probably reboot now
